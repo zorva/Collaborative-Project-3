@@ -1,0 +1,11 @@
+#nav-bar{
+    display: flex;
+    background-color: black;
+    color: white;
+
+}
+
+
+@media only screen and(max-width:600px){
+   
+}
